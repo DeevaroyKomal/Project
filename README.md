@@ -13,8 +13,6 @@ Next js 14
 
 Tailwind CSS
 
-Tensorflow
-
 React
 
 TensorFlow.js
